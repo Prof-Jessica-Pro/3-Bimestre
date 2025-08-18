@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --vermelhor-claro: #ff6961;
  }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #FF0000;
 }
 
 
@@ -125,7 +125,7 @@ h4 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #FF0000
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
